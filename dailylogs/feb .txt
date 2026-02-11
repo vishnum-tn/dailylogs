@@ -19,7 +19,7 @@ Task 02 : Session with shanker anna about fastapi  basis  - L1 - Success - 8:00 
 Task 03 : learning basic comand unbunto             - L1 - Success - 9:00 - 10:30 IST
 Task 04 : playing games withs teams based on gen ai topics- L3 - Success - 10:30 - 12:35 am IST
 -------------------
-----------------------------------------------
+----------------------------------------------  
 Total Working Hours: 6hrs 30mins
 
 
@@ -30,3 +30,23 @@ Task 01 : learning python topics- L1 - Success - 9:30 - 11 PM IST
 -------------------
 ----------------------------------------------
 Total Working Hours: 1hrs 30mins
+
+
+
+------------------------------------------------
+Day # 28 - Feb 10, 2026 - tuesday
+
+Task 01 : learning python topics and liux commands- L1 - Success - 9:30 - 12:30 PM IST
+-------------------
+----------------------------------------------
+Total Working Hours: 3hrs 30mins
+
+
+
+------------------------------------------------
+Day # 29 - Feb 11, 2026 - wesnesday
+
+Task 01 : learning python topics fastapi  and  - L1 - Success - 9:30 - 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 3hrs 30mins
