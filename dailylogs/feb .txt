@@ -50,3 +50,11 @@ Task 01 : learning python topics fastapi  and  - L1 - Success - 9:30 - 12:30 PM 
       
 ----------------------------------------------
 Total Working Hours: 3hrs 30mins
+
+------------------------------------------------
+Day # 30 - Feb 11, 2026 - thursday
+
+Task 01 : python task installing the liux in  sir - L1 - Success - 9:30 - 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 3hrs 30mins
