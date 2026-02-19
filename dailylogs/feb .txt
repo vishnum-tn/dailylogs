@@ -67,13 +67,57 @@ Task 01 : takiing class in python and fastapi - L1 - Success - 9:30 - 12:30 PM I
 ----------------------------------------------
 Total Working Hours: 3hrs 30mins
 
-Day # 32 - Feb 12, 2026 - thursday
+Day # 33 - Feb 14, 2026 - Saturday
 
-Task 01 : takiing class in py - L1 - Success - 9:30 - 12:30 PM IST
+Task 01 : attend the commonallity test and learning commands - L1 - Success - 9:30 - 12:30 PM IST
       
 ----------------------------------------------
-Total Working Hours: 3hrs 30mins
+Total Working Hours: 3hrs 10mins
 
+
+Day # 35 - Feb 15, 2026 - Saturday
+
+Task 01 : learnning langh chain basics and ollama  - 10:00- 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 2hrs 30mins
+
+
+
+Day # 36 - Feb 16, 2026 - monday
+
+Task 01 : taking with new students         - 6:00-7 PM IST
+Task 02 : taking with new product inavation - 8:00-9 PM IST
+Task 03 : learning mcp                   - 10:00 - 12:55 PM IST      
+	----------------------------------------------
+	Total Working Hours: 5hrs 55mins
+
+
+Day # 37 - Feb 17, 2026 -tuesday
+
+
+Task 01 : learnning langh chain basics and ollama  - 10:00- 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 2hrs 30mins
+
+
+
+Day # 38 - Feb 18, 2026 - wesnesday
+
+Task 01 : learnning python concept  - 10:00- 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 1hrs 30mins
+
+
+
+Day # 39 - Feb 19, 2026 - thursday
+
+Task 01 : learnning langh chain basics and ollama  - 10:00- 12:30 PM IST
+      
+----------------------------------------------
+Total Working Hours: 2hrs 30mins
 
 
 
