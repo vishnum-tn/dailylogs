@@ -70,12 +70,12 @@ Total Working Hours: 3hrs30 mins
 Day # 48 - Mar 9, 2026 - monday 
 ------------------------------------------
 
-Task 01 : doinng task tact and aritcal    - 10:00 PM- 10:30PM IST
+Task 01 : learning functions doinng task tact functions and  - 10:00 PM- 10:30PM IST
 
-Task 02 : playing games   team mets        - 10:30 -1:30PM IST
+Task 02 : learning sql basic and doing setup                - 10:30 -12:30PM IST
       
 ---------------------------------------------------------
-Total Working Hours: 3hrs30 mins
+Total Working Hours: 2hrs30 mins
 ---------------------------------------------------------
 
 
