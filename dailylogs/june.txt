@@ -1,9 +1,19 @@
 Day # 60- june 11, 2026 - saturday
 ------------------------------------------
 
-Task 01 : paly games  with the students and learing - 10 PM- 12:30PM IST
+Task 01 : working on the crud operation in mongo DB- 10 PM- 12:30PM IST
 
       
 ---------------------------------------------------------
-Total Working Hours: 2hrs :30 hrs
+Total Working Hours: 2hrs 
 ---------------------------------------------------------
+
+Day # 61- june 18, 2026 - saturday
+------------------------------------------
+
+Task 01 : agrom DB project working- 10 PM- 12:30PM IST
+
+      
+---------------------------------------------------------
+Total Working Hours: 2hrs 
+--------------------------------------------------------
