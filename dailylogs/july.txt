@@ -82,7 +82,6 @@ Total Working Hours: 3hrs
 -----------------------------------------------------------
 
 
-
 Day # 64- july 16, 2026 -
 ------------------------------------------
 
@@ -93,4 +92,22 @@ Task 02 : making the agrom db project   -10 - 11:30 IST
 ----------------------------------------------------------
 Total Working Hours: 5hrs
 -----------------------------------------------------------
+Day # 65 - Jul 19, 2026 - Sunday
+------------------------------------------------------
 
+Task 01 : Playing Games                          - L1 - Success - 8:00 PM - 11:30 PM IST
+
+------------------------------------------------------
+Total Working Hours: 3 hrs 30 mins
+
+Day # 66 - Jul 20, 2026 - Monday
+------------------------------------------------------
+
+Task 01 : Working on Audio Features                 - L2 - Success - 11:00 AM - 3:00 PM IST
+Task 02 : Taking Session on Python Basics           - L2 - Success - 4:00 PM - 4:30 PM IST
+Task 03 : Demo with CSP Sir                         - L2 - Success - 5:00 PM - 6:00 PM IST
+Task 04 : Attended Error PAL Session                - L2 - Success - 7:00 PM - 9:00 PM IST
+Task 05 : KT to New Students for Daily Tasks        - L2 - Success - 9:00 PM - 9:45 PM IST
+
+------------------------------------------------------
+Total Working Hours: 8 hrs 15 mins
