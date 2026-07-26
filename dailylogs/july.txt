@@ -120,4 +120,45 @@ Day # 66 - Jul 22, 2026 - wesnesday
 Task 01 : Developing the Chatbot                  - L2 - Success - 8:30 PM - 11:00 PM IST
 
 ------------------------------------------------------
-Total Working Hours: 2 hrs 30 mins\
+Total Working Hours: 2 hrs 30 mins
+
+
+
+## Day # 67 - Jul 23, 2026 - thursday
+
+Task 01 : Q&A Learning Session           - L1 - Success - 7:20 PM - 8:30 PM IST
+Task 02 : Learning LangGraph from the Session     - L1 - Success - 9:00 PM - 10:30 PM IST
+
+
+---
+
+Total Working Hours: 2 hrs 40 mins
+
+---
+
+Day # 68 - Jul 24, 2026 - Friday
+
+Task 01 : Playing Games and Checking the Website  - L1 - Success - 7:30 PM - 8:30 PM IST
+Task 02 : Working on Skentiii Game and Discussion with Friend - L1 - Success - 8:30 PM - 11:30 PM IST
+
+---
+
+Total Working Hours: 4hrs
+
+
+
+
+
+---
+
+Day # 69 - Jul 25, 2026 - Saturday
+
+Task 01 : Data Collection for Wishlist            - L1 - Success - 3:00 PM - 4:00 PM IST
+Task 02 : Building the Project with Amazon Links  - L2 - Success - 4:00 PM - 6:00 PM IST
+Task 03 : Updating the Timesheet                  - L1 - Success - 6:00 PM - 7:00 PM IST
+Task 04 : Learning FastAPI with Students and Game - L2 - Success - 7:00 PM - 10:00 PM IST
+Task 05 : Developing a Small Crop Project         - L2 - Success - 11:00 PM - 11:45 PM IST
+
+---
+
+Total Working Hours: 7hrs 45mins
